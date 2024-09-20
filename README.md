@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-I am currently studying Data Science at Politecnico di Torino (PoliTo), with a focus on Robotics and Reinforcement Learning. On this GitHub page, you can explore the projects I am working on as part of my Master's program.  
-
-On this page, you'll find my project from PoliTo along with other projects I've worked on.  
+I am currently studying Data Science at Politecnico di Torino (PoliTo), with a focus on Robotics and Reinforcement Learning. On this GitHub page, you can explore the projects I am working on as part of my Master's program.   
 
 For more information about the Data Science and Engineering courses at Polito, please visit this https://github.com/Polito-DSE page.
 
