@@ -3,9 +3,9 @@
 I am currently studying Data Science at Politecnico di Torino (PoliTo), with a focus on Robotics and Reinforcement Learning. On this GitHub page, you can explore the projects I am working on as part of my Master's program.  
 
 
+<!-- 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ArashDaneshvar.ArashDaneshvar)
-
-
+-->
 
 
 
