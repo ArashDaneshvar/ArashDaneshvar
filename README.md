@@ -5,6 +5,9 @@ I am currently studying Data Science at Politecnico di Torino (PoliTo), with a f
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ArashDaneshvar.ArashDaneshvar)
 
+![Visitor Count](https://counter.dev/ArashDaneshvar.svg)
+
+
 
 <!--
 For more information about the Data Science and Engineering courses at Polito, please visit this https://github.com/Polito-DSE page.
