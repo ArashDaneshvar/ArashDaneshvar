@@ -5,7 +5,7 @@ I am currently studying Data Science at Politecnico di Torino (PoliTo), with a f
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ArashDaneshvar.ArashDaneshvar)
 
-![Visitor Count](https://counter.dev/ArashDaneshvar.svg)
+
 
 
 
